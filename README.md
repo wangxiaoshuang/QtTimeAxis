@@ -1,2 +1,2 @@
 # QtTimeAxis
-https://github.com/wangxiaoshuang/QtTimeAxis/assets/20664375/e0566bb8-ef9a-4deb-9cf0-f7cc16d5d290
+https://github.com/wangxiaoshuang/QtTimeAxis/assets/20664375/02fad0a8-cd96-4037-b6e3-da2997214cc1
